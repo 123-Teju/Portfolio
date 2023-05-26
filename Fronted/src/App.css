@@ -1,0 +1,31 @@
+
+/* BOX 4 CSS */
+.B4{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:lighter;
+    color: rgb(71, 71, 71);
+  }
+  .B4H1{
+    font-size:40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:lighter;
+    color: rgb(71, 71, 71);
+  }
+  .B4card {
+    box-shadow: 0 12px 20px -10px rgba(0, 0, 0, 0.4), 0 4px 20px 0 rgba(0, 0, 0, 0.1);
+  }
+  .B5{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:lighter;
+    color: rgb(71, 71, 71);
+  }
+  .BHR{
+    color: rgb(255, 255, 255);
+  }
+  
+  .B6{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:lighter;
+    color: rgb(71, 71, 71);
+    
+  }
